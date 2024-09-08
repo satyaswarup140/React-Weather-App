@@ -2,9 +2,9 @@
 
 This project was made to measure the temperature, weather description, humidity, wind speed, and atmospheric pressure of different cities of different countries.
 
-## Available Scripts
+## Languages Used
 
-In the project directory, you can run:
+Javascript, HTML, CSS
 
 ### `npm start`
 
