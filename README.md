@@ -1,6 +1,6 @@
 # Weather App for Cities
 
-This project was made to measure the temperature, weather description, humidity, wind speed, and atmospheric pressure of different cities of different countries.
+This project was made to measure the temperature, weather description, humidity, wind speed, and atmospheric pressure of different cities of different countries.You can put any city name on search bar & see all the weather related details.
 
 ## Languages Used
 
