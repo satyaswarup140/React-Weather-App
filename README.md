@@ -20,5 +20,5 @@ You can check codes in 'https://github.com/satyaswarup140/React-Weather-App.git'
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Deploy Link = react-weather-eahdepo9i-satyaswarup140s-projects.vercel.app
 
